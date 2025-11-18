@@ -1,0 +1,9 @@
+praw
+pandas
+python-dotenv
+textblob
+langdetect
+matplotlib
+scikit-learn
+# optional:
+azure-ai-textanalytics

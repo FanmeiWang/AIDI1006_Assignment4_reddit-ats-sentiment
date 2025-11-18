@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project data (raw, large, or sensitive)
+data/raw/
+data/intermediate/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# VSCode / IDE
+.vscode/
+.idea/
